@@ -1,4 +1,4 @@
-# CreditCardFraudDetection
+# Credit Card Fraud Detection
 
 <h2>
       About :
